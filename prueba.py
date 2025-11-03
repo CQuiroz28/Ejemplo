@@ -1,0 +1,2 @@
+Nombre = "Cristian"
+Apellido = "Quiroz"
