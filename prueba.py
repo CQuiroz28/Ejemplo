@@ -1,3 +1,4 @@
 Nombre = "Cristian"
 Apellido = "Quiroz"
-años = "22"
+Años = "22"
+Ciudad = "Medellin"
